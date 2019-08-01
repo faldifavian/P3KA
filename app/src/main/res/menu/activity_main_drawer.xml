@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_healthtips"
+            android:icon="@drawable/ic_note_add_black_24dp"
+            android:title="Tips Kesehatan" />
+        <item
+            android:id="@+id/nav_medinfo"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Pertolongan Pertama" />
+
+        <item
+            android:id="@+id/nav_hosp"
+            android:icon="@drawable/ic_add_location_black_24dp"
+            android:title="RS Terdekat" />
+
+    </group>
+
+</menu>
