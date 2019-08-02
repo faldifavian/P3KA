@@ -110,7 +110,6 @@ public class FragmentHome extends Fragment {
 
         }, delay, period);
 
-        //Setting grid view
         CustomGrid gridAdapter = new CustomGrid(getContext(), text, imageId);
         grid=(GridView) v.findViewById(R.id.grid_home);
         grid.setAdapter(gridAdapter);
