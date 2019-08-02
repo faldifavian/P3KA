@@ -23,7 +23,7 @@ import com.faldifavian.p3ka.R;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, FragmentRSTerdekat.OnFragmentInteractionListener
-        , FragmentP3K.OnFragmentInteractionListener, FragmentTipsKesehatan.OnFragmentInteractionListener
+        , FragmentTipsKesehatan.OnFragmentInteractionListener
         , FragmentHome.OnFragmentInteractionListener {
 
 
@@ -103,7 +103,7 @@ public class MainActivity extends AppCompatActivity
 
 
         } else if (id == R.id.nav_medinfo) {
-            FragmentP3K km=new FragmentP3K();
+            PenyakitFragment km=new PenyakitFragment();
             getSupportFragmentManager().beginTransaction().replace(R.id.container,km).commit();
 
 

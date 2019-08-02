@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/Pictures/P3KA/app/libs/volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/2/volley_cf5b2c99916cce90085662c575191e9f34deb3ef/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.2/3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf/gson-2.8.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_eb603cd6aeb2bad517fb4df60de056086a5c7270/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.14.0_aed479afe81dd6ca830491f1f6c3004d973b7a5d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/Pictures/P3KA/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="05e75aa07f9cc8e9311d16b797c975d2d770e962">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_42e8cd8a354775d579da38dca344ec506aa3978d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/Pictures/P3KA/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f705a7b2a325f22cef5fb585aa88483baac8da77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.10.0_44be4f04d3540706e26fc0d040df5052604c03f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.4.0/fc4aa382632bfaa7be7b41579efba41d5a71ecf3/retrofit-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc4aa382632bfaa7be7b41579efba41d5a71ecf3">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.4.0_7829af9334e083190f843081c0fc0245052d9149/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/addicthief/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.4.0/15d7790ee311d961379c51b00aba12d5967cb7ea/converter-gson-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="15d7790ee311d961379c51b00aba12d5967cb7ea">
+        <dex dex="/home/addicthief/Pictures/P3KA/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.4.0_59c72b120ab4b2dae4b3eb32e8ed99c62028f10b/classes.dex" />
+    </item>
+
+</items>

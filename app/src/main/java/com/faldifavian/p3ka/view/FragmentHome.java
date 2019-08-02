@@ -131,7 +131,7 @@ public class FragmentHome extends Fragment {
                     }
                     case 1 :
                     {
-                        FragmentP3K rm=new FragmentP3K();
+                        PenyakitFragment rm=new PenyakitFragment();
                         FragmentTransaction transaction = getFragmentManager().beginTransaction();
                         transaction.addToBackStack(null);
                         transaction.replace(R.id.container,rm).commit();
